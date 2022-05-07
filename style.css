@@ -1,0 +1,26 @@
+/* 
+.heading:hover{
+    color: black;
+} */
+.body{
+  background-color: pink;
+  
+}
+.heading:hover {
+color: blue;
+
+  }
+.button{
+  position: absolute;
+  bottom: 700px;
+  left: 400px;
+  height: 70px;
+  width: 10%;
+  font-size: 30px;
+}
+
+.button{
+  position: relative;
+}
+
+
